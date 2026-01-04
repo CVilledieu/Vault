@@ -1,6 +1,6 @@
 CC = gcc
 
-INC = -I./src
+INC = -I./src -I./include
 CFLAGS = $(INC) -Wall
 
 SRC_D = src
