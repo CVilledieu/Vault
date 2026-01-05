@@ -6,4 +6,4 @@
 
 - Type: Relational vs NoSQL
   - Relational
-- 
+  
