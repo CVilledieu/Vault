@@ -1,4 +1,4 @@
-# Floor Stash // Hotel Safe
+# QuickStash
 
 ## A personal database
 
